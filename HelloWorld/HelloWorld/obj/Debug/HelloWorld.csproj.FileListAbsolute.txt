@@ -1,0 +1,10 @@
+E:\GrapecityAssignments\.net-framework-\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\GrapecityAssignments\.net-framework-\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\GrapecityAssignments\.net-framework-\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\GrapecityAssignments\.net-framework-\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+E:\GrapecityAssignments\.net-framework-\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+E:\GrapecityAssignments\.net-framework-\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+E:\GrapecityAssignments\.net-framework-\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+E:\GrapecityAssignments\.net-framework-\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\GrapecityAssignments\.net-framework-\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\GrapecityAssignments\.net-framework-\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
